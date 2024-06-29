@@ -19,7 +19,7 @@
 }
 .logo{
     margin-top: 10px;
-    background-image:url("gu.png");
+    background-image:url("IMAGE_1.png");
     background-size:cover;
     height:33px;
     width:100%;
@@ -28,7 +28,7 @@
     border: 2px solid transparent;
 }
 .border:hover{
-    border:2px solid white;
+    border:2px solid rgb(165, 128, 128);
 }
 .add-first{
     color:#cccc;
@@ -114,7 +114,7 @@ span{
     font-weight:800;
 }
 .hero-section{
-    background-image: url("hero.png");
+    background-image: url("IMAGE_2.png");
     background-size: cover;
     height:350px;
     display: flex;
